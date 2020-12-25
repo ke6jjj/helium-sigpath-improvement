@@ -1,6 +1,7 @@
 # Title
 
 # Summary
+No way currently exists for Helium hotspot operators to assert a non-standard antenna.
 
 # Motivation (use graphics!)
 
@@ -20,6 +21,7 @@
 # Rationale & Alternatives
 
 # Unresolved Questions
+How will gamers use this to profit without improving the network?
 
 # Estimated Impact
 
